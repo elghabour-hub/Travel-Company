@@ -1,0 +1,55 @@
+/* start contact-us */
+.title-Countact {
+  color: rgb(88 13 131);
+  font-size: 45px;
+  text-align: center;
+  margin-top: 100px;
+}
+.span-Countact {
+  border-bottom: 4px solid rgb(88 13 131);
+  padding: 10px;
+}
+#Countact-Us {
+  direction: rtl;
+}
+.real-form {
+  background-color: white;
+  width: 100%;
+  margin: 60px 20px 0px 0px;
+  box-shadow: 5px 5px 25px rgb(190 188 188);
+  padding-left: 33px;
+  padding-top: 20px;
+  direction: rtl;
+  box-sizing: border-box;
+  padding-right: 15px;
+  padding-bottom: 10px;
+  float: right;
+}
+.forms {
+  width: 50%;
+}
+input {
+  border: none;
+  border-bottom: 1px solid rgb(201, 200, 200);
+  height: 30px;
+  width: 100%;
+}
+button {
+  background-color: rgb(88 13 131);
+  color: white;
+  padding: 10px 20px;
+  border: rgb(88 13 131) 1px solid;
+  position: relative;
+  margin-left: 550px;
+  width: 140px;
+  border-radius: 5px;
+  right: 355px;
+}
+.map {
+  padding-top: 60px;
+}
+.container {
+  width: 90%;
+  margin: auto;
+}
+/* End Contact-us */
